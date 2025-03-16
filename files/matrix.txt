@@ -1,0 +1,9 @@
+4 5
+1 2 5 8 9
+1 4 2 6 9
+2 3 6 3 8
+0 0 0 1 5
+
+
+first two elements of file specify the rows and columns of the matrix respectively
+then it's the matrix
